@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignore JetBrains IDE settings
+.idea/
+
+# Ignore Python compiled files
+__pycache__/
